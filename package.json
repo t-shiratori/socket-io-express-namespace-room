@@ -1,0 +1,15 @@
+{
+  "name": "socket-io-express-namespace-room",
+  "version": "1.0.0",
+  "description": " Get Started: Chat application in socket.io official site (http://socket.io/get-started/chat/) ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  }
+}
